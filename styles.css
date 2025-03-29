@@ -40,11 +40,11 @@
     }
 
     tr:nth-child(even) {
-        background-color: #d8ebf9;
+        background-color: rgba(216, 235, 249, 0.9);
     }
 
     tr:nth-child(odd) {
-        background-color: #d8ebf9;
+        background-color: rgba(216, 235, 249, 1);
     }
 
     .accreditor {
